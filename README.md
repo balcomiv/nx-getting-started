@@ -85,12 +85,21 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 
 ## Commands Used
+
+### Workspace
 - nxp create-nx-workspace your-name
+
+### Angular
 - ng add @nrw/angular (tooling for angular)
 - ng g @nrwl/angular:application app-name
 
+### React
 - ng add @nrwl/react (tooling for react)
 - ng g @nrwl/react:application app-name
 
+### Shared Lib
 - ng g @nrwl/workspace:library utilities --dry-run
-- ng s admin --open
+
+### Nest
+- ng add @nrwl/nest (nest tooling)
+- ng g @nrwl/nest:application api
