@@ -98,7 +98,7 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - ng g @nrwl/react:application app-name
 
 ### Shared Lib
-- ng g @nrwl/workspace:library utilities --dry-run
+- ng g @nrwl/workspace:library lib-name --dry-run
 
 ### Nest
 - ng add @nrwl/nest (nest tooling)

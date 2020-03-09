@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-getting-started/utilities": ["libs/utilities/src/index.ts"]
+      "@nx-getting-started/utilities": ["libs/utilities/src/index.ts"],
+      "@nx-getting-started/interfaces": ["libs/interfaces/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
