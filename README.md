@@ -91,3 +91,6 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 - ng add @nrwl/react (tooling for react)
 - ng g @nrwl/react:application app-name
+
+- ng g @nrwl/workspace:library utilities --dry-run
+- ng s admin --open
